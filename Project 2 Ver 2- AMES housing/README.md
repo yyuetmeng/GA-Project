@@ -13,7 +13,7 @@ I am given a train dataset and test dataset on the Ames Housing Dataset. The mod
 
 The Ames Housing Dataset is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses.
 My task is to:
-- Refining models over time
+- Refine models over time
 - Use of train-test split, cross-validation, and data with unknown values for the target to simulate the modeling process
 - The use of Kaggle as a place to practice data science
 
@@ -27,12 +27,12 @@ My task is to:
     - strong exploratory data analysis to question correlation and relationship across predictive variables
     - code that reproducibly and consistently applies feature transformation (such as the preprocessing library)
 3. Predict the values for the target column in the test dataset and submitting the predictions to Kaggle to see how your model does against unknown data.
-    - *I am limited to models Linear Regression, Lasso Regression, Ridge Regression and ElasticNet Regression.
+ 
 4. Evaluate the models!
     - consider the evaluation metrics
     - consider the baseline score
-    - how can my model be used for inference?
-    - how the model will generalize to new data?
+    - how can my model be used for inference
+    - how the model will generalize to new data
 
 ## Submission
 
@@ -40,7 +40,7 @@ My technical report will be hosted on Github Enterprise. It includes:
 
 - A README.md 
 - Jupyter notebook(s) with my analysis and models 
-- At least one successful prediction submission on [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge/leaderboard)" tab.
+- At least one successful prediction submission on [DSI-US-11 Regression Challenge](https://www.kaggle.com/c/dsi-us-11-project-2-regression-challenge) 
 - Data files
 - Presentation slides
 
